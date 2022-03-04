@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">EmojiSelect</string>
+
+    <string name="lose">You Lose!</string>
+
+    <string name="win">You Won!</string>
+
+</resources>
